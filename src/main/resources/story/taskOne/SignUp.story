@@ -14,6 +14,6 @@ When I click on element located `By.xpath(//*[@class='L7xGALfPAYDRzH _3TTqkG5muw
 When I click on element located `By.xpath(//*[@class='_3NiikDVF6xf5o- _3TTqkG5muwOzqZ _3HfJ71CiQ9nm2y'])`
 Then the page with the URL 'getting-started' is loaded
 Examples:
-|email                                |name                    |
-|redmail4@yopmail.com                 |MaryRed3                |
-|#{generate(Internet.Email.Address)]  |#{generate(Name.name)}  |
+|email                                 |name                    |
+|blackmail@yopmail.com                 |Mary Black              |
+|#{generate(Internet.Email.Address)]   |#{generate(Name.name)}  |
